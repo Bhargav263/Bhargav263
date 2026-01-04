@@ -1,76 +1,46 @@
 👋 Hi, I’m Bhargav Paneliya
 
-🎯 Aspiring AI/ML Engineer | Computer Engineering Student
-💻 Python • Machine Learning • Deep Learning • NLP
+🎯 Aspiring AI/ML Engineer
+💻 Python | Machine Learning | Deep Learning | NLP
 
-I build end-to-end, leakage-free machine learning projects with a strong focus on real-world correctness, interpretability, and reproducibility.
+I build leakage-free, end-to-end machine learning pipelines with realistic evaluation and strong fundamentals.
 
-🔧 Technical Skills
+🔧 Core Skills
 
-Programming: Python
-
-Machine Learning: Supervised & Unsupervised Learning, EDA, Feature Engineering, Model Evaluation (ROC-AUC, F1, Confusion Matrix)
+Machine Learning: Classification, EDA, Feature Engineering, Model Evaluation (ROC-AUC, F1)
 
 Deep Learning: ANN, CNN, RNN, LSTM (learning GRU & Transformers)
 
-NLP: Text preprocessing, TF-IDF, Sequence Modeling
+NLP: Text preprocessing, TF-IDF, Sequence modeling
 
-Libraries & Tools: NumPy, Pandas, scikit-learn, XGBoost, TensorFlow, Matplotlib, Seaborn
+Tools: Python, scikit-learn, XGBoost, TensorFlow, Pandas, NumPy
 
-Tools: Git, GitHub, Jupyter Notebook
+🧠 ML Practices I Follow
 
-🧠 ML Workflow & Practices
+Train–test split before preprocessing
 
-I follow industry-standard machine learning workflows with emphasis on correctness and reproducibility:
+EDA only on training data
 
-Train–test split before any preprocessing
+Pipeline-based preprocessing (no leakage)
 
-EDA performed only on training data
+Proper handling of imbalanced data
 
-Leakage-free pipelines using scikit-learn
+Model interpretability via feature importance
 
-Proper handling of missing values and imbalanced data
+📊 Problem Domains
 
-Model evaluation using ROC-AUC, F1-score, and confusion matrix
+Binary classification (rainfall, churn)
 
-Feature importance analysis for interpretability
+Recommendation systems
 
-🧠 What I Focus On
+NLP sequence models
 
-Correct ML workflows (no data leakage)
+Real-world noisy datasets
 
-Pipeline-based preprocessing
-
-Interpretable results
-
-Realistic evaluation metrics
-
-Clean, recruiter-readable documentation
-
-📊 Problem Domains I’ve Worked On
-
-Binary classification (Rainfall prediction, Customer churn prediction)
-
-Natural Language Processing (Text generation, similarity-based systems)
-
-Recommendation systems (Content-based filtering)
-
-Real-world datasets with noise, missing values, and imbalance
-
-📈 Currently Improving
-
-Advanced sequence models (GRU, Transformers)
-
-Better recall optimization for imbalanced datasets
-
-Writing cleaner, reusable ML pipelines
-
-Model interpretability and error analysis
-
-📫 Let’s Connect
+📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/bhargav-paneliya-/
 
 GitHub: https://github.com/Bhargav263
 
-⭐ Open to AI/ML internships and entry-level opportunities.
+⭐ Open to AI/ML internships & entry-level roles.
