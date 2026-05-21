@@ -66,34 +66,65 @@
 
 # 🚀 Featured Projects
 
+## ⚡ FlashRAG
+High-performance Retrieval-Augmented Generation (RAG) pipeline focused on fast semantic retrieval and efficient LLM responses.
+
+### Features
+- Semantic search pipeline
+- Vector database integration
+- Fast embedding generation
+- Modular RAG architecture
+- Optimized retrieval workflow
+
+### Tech Used
+`Python` `FastRAG` `ChromaDB` `FastEmbed` `LLMs`
+
+🔗 Repo: https://github.com/Bhargav263/FlashRAG
+
+---
+
 ## 🎬 Movie Recommendation System
-- Content-based movie recommendation engine
-- NLP + cosine similarity
-- Streamlit interface
+Content-based movie recommendation engine using NLP and cosine similarity.
+
+### Features
+- Similar movie recommendations
+- NLP-based matching
+- Streamlit UI
 
 ### Tech Used
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
----
-
-## 🌧 Rain Prediction System
-- Machine learning weather prediction system
-- Data preprocessing & feature engineering
-
-### Tech Used
-`Python` `Scikit-learn` `Pandas`
+🔗 Repo: https://github.com/Bhargav263/Movie-Recommendation-System
 
 ---
 
 ## 🧠 LSTM Text Generation
-- Deep learning text generation model
-- Sequence modeling using LSTM
+Deep learning text generation model using sequence prediction with LSTM architecture.
+
+### Features
+- Sequential text generation
+- Deep learning workflow
+- Neural language modeling
 
 ### Tech Used
 `TensorFlow` `Keras` `Deep Learning`
 
+🔗 Repo: https://github.com/Bhargav263/LSTMTextGen
+
 ---
 
+## 🌧 Rain Prediction System
+Machine learning system for predicting rainfall using historical weather data.
+
+### Features
+- Feature engineering
+- Data preprocessing
+- Predictive ML model
+
+### Tech Used
+`Python` `Scikit-learn` `Pandas`
+
+🔗 Repo: https://github.com/Bhargav263/Rain-Prediction
 # 📚 Currently Learning
 
 - Agentic AI
