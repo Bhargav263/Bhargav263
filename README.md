@@ -42,7 +42,7 @@
 
 ## 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ## 🤖 AI / ML
